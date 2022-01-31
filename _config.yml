@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Md Shohidul Islam"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Research Assistant"
+  Cleveland State University : "https://www.csuohio.edu/"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
